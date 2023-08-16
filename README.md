@@ -21,7 +21,9 @@ docker-compose exec web rails db:create
 
 # Contribute
 
-If you have a more shortly construct ideas, please contribution.
-
+If you have a more shortly construct ideas, please `fork`.
 Thank you for all Rails engineer's.
+
+<img src="https://github.com/fooramu/quickly-docker-rails/assets/434513/3309761d-c616-462c-b92d-4681bbb0ac18" width="30%">
+
 
