@@ -1,24 +1,23 @@
 # light-docker-rails
 
-This is faster Ruby on Rails confirm tools.
+### You can check Rails7 very quickly.
 
-- We don't want to occurred any more errors to check for Rails behavior...
-- We don't want to modify some codes after git clone...
-- We don't want to read README.md
+- We don't have to occurred any more errors to check for Rails behavior...
+- We don't have to modify some codes after git clone...
+- We don't have to read long README.md
+- We don't have to start up mysterious container.
+
+... Only the welcome page is needed.
 
 Thank you for all Rails engineer's.
 
-# You can start that few commands.
+# Step
 
-```:bash
+```bash
+git clone git@github.com:fooramu/light-docker-rails.git
+cd light-docker-rail
 docker-compose build
-```
-
-```:bash
 docker-compose up -d
-```
-
-```:bash
 docker-compose exec web rails db:create
 ```
 
