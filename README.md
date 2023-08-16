@@ -1,4 +1,4 @@
-# light-docker-rails
+# quickly-docker-rails
 
 ### You can check Rails7 very quickly.
 
@@ -9,13 +9,11 @@
 
 ... Only the welcome page is needed.
 
-Thank you for all Rails engineer's.
-
 # Step
 
 ```bash
-git clone git@github.com:fooramu/light-docker-rails.git
-cd light-docker-rails
+git clone git@github.com:fooramu/quickly-docker-rails.git
+cd quickly-docker-rails
 docker-compose build
 docker-compose up -d
 docker-compose exec web rails db:create
@@ -25,5 +23,5 @@ docker-compose exec web rails db:create
 
 If you have a more shortly construct ideas, please contribution.
 
-
+Thank you for all Rails engineer's.
 
