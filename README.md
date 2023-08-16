@@ -1,24 +1,30 @@
-# README
+# light-docker-rails
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is faster Ruby on Rails confirm tools.
 
-Things you may want to cover:
+- We don't want to occurred any more errors to check for Rails behavior...
+- We don't want to modify some codes after git clone...
+- We don't want to read README.md
 
-* Ruby version
+Thank you for all Rails engineer's.
 
-* System dependencies
+# You can start that few commands.
 
-* Configuration
+```:bash
+docker-compose build
+```
 
-* Database creation
+```:bash
+docker-compose up -d
+```
 
-* Database initialization
+```:bash
+docker-compose exec web rails db:create
+```
 
-* How to run the test suite
+# Contribute
 
-* Services (job queues, cache servers, search engines, etc.)
+If you have a more shortly construct ideas, please contribution.
 
-* Deployment instructions
 
-* ...
+
