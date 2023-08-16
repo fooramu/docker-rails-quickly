@@ -15,7 +15,7 @@ Thank you for all Rails engineer's.
 
 ```bash
 git clone git@github.com:fooramu/light-docker-rails.git
-cd light-docker-rail
+cd light-docker-rails
 docker-compose build
 docker-compose up -d
 docker-compose exec web rails db:create
