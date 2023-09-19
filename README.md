@@ -17,7 +17,14 @@
 Name | Description | ※
 --- | --- | ---
 db | MySQL 8 | Health check available (linked to `web`)
-web | ruby 3.2.2, Rails 7.0.7 | `rails new --force --no-deps --database=mysql --minimal`
+web | ruby 3.2.2, Rails 7.0.8 | `rails new --force --no-deps --database=mysql --minimal`
+
+### Update history
+
+<details>
+<summary>histories</summary>
+<a href="https://github.com/fooramu/docker-rails-quickly/commit/1fbd12381ed9ca66f016fa51bb9ab09094cfa9f4">7.0.8 - 2023.09.19</a>
+</details>
 
 We will continue to update to the latest version whenever possible.
 
