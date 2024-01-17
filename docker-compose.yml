@@ -9,7 +9,7 @@ services:
     image: mysql:8.0
     environment: *common-variables
     ports:
-      - "3306:3306"    
+      - "3306:3306"
     volumes:
       - db-data:/var/lib/mysql
     healthcheck:
