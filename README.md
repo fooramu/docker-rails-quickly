@@ -17,14 +17,12 @@
 Name | Description | ※
 --- | --- | ---
 db | MySQL 8 | Health check available (linked to `web`)
-web | ruby 3.2.2, Rails 7.0.8 | `rails new --force --no-deps --database=mysql --minimal`
+web | ruby 3.2.2, Rails 7.1.3 | `rails new --force --no-deps --database=mysql --minimal`
 
 ### Update history
 
-<details>
-<summary>histories</summary>
-<a href="https://github.com/fooramu/docker-rails-quickly/commit/1fbd12381ed9ca66f016fa51bb9ab09094cfa9f4">7.0.8 - 2023.09.19</a>
-</details>
+- <a href="https://github.com/fooramu/docker-rails-quickly/commit/9122719f30aff81233962ad9c331bce06c1102bf">7.1.3 - 2024.01.17</a>
+- <a href="https://github.com/fooramu/docker-rails-quickly/commit/1fbd12381ed9ca66f016fa51bb9ab09094cfa9f4">7.0.8 - 2023.09.19</a>
 
 We will continue to update to the latest version whenever possible.
 
@@ -40,7 +38,7 @@ docker compose exec web rails db:create
 
 ## Goal
 
-<img width="500" alt="スクリーンショット 2023-08-18 16 34 26" src="https://github.com/fooramu/docker-rails-quickly/assets/434513/8f5bedde-e384-42af-8eeb-04808389ee2a">
+<img width="500" alt="image" src="https://github.com/fooramu/docker-rails-quickly/assets/434513/4e258ba4-4970-4ac1-93c7-9bc4fee563e8">
 
 ## How to contribute
 
