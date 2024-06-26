@@ -7,10 +7,7 @@
 
 ### You can check Rails7 very quickly.
 
-- We don't have to occurred any more errors to check for Rails behavior.
-- We don't have to Initial setup after git clone.
-- We don't have to read long README.
-- We don't have to start up mysterious containers.
+Let's use to learn to your “Rails" !
 
 ### Containers
 
