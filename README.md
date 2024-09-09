@@ -18,7 +18,7 @@ web | ruby 3.2.5, Rails 7.2.1 | `rails new --force --no-deps --database=mysql --
 
 ### Update history
 
-- <a href="https://github.com/fooramu/docker-rails-quickly/commit/2808c6f2c4d4c6d0c5f2a53df64a9add2d46057f">7.2.1 - 2024.08.28</a>
+- <a href="https://github.com/fooramu/docker-rails-quickly/commit/ad634169596fe6aec26ba369f15e6b510b70ecce">7.2.1 - 2024.09.09</a>
 - <a href="https://github.com/fooramu/docker-rails-quickly/commit/9122719f30aff81233962ad9c331bce06c1102bf">7.1.3 - 2024.01.17</a>
 - <a href="https://github.com/fooramu/docker-rails-quickly/commit/1fbd12381ed9ca66f016fa51bb9ab09094cfa9f4">7.0.8 - 2023.09.19</a>
 
